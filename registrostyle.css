@@ -23,12 +23,12 @@
   margin: auto;
   margin-top: 50px;
   border-radius: 4px;
-  font-family: 'calibri';
+  font-family: 'verdana';
   color: white;
 }
 
 .form-register h4 {
-  font-size: 22px;
+  font-size: 20px;
   margin-bottom: 20px;
 }
 
@@ -39,7 +39,7 @@
   border-radius: 4px;
   margin-bottom: 16px;
   border: 1px solid #1f53c5;
-  font-family: 'calibri';
+  font-family: 'verdana';
   font-size: 18px;
   color: black;
 }
@@ -76,7 +76,7 @@
   height: 125px;
   width: 100%;
   text-align: left;
-  font-size: 15px;
+  font-size: 12px;
   line-height: 5px;
 }
 
@@ -84,11 +84,10 @@
   width: 90%;
   height: auto;
   margin: 10px;
-  padding: 25px;
+  padding: 15px;
   border: 5px solid black;
-  font-size: large;
+  font-size: medium;
 }
-
 
 .lista ul
 {
@@ -105,11 +104,6 @@
    padding-right: 5px;
 } 
 
-h4{
-  color: black;
-  padding: 5px;
-}
-
 .logo {
   width: 8%;
 }
@@ -120,7 +114,7 @@ h4{
   padding: 10px;
   border-radius: 4px;
   margin-bottom: 16px;
-  font-family: 'calibri';
+  font-family: 'verdana';
   font-size: 18px;
   color: black;
 }
@@ -138,9 +132,26 @@ h4{
 
 h3,h1{
   color: black;
-  padding:25px;
-  font-family: 'calibri';
+  padding:20px;
+  font-family: 'verdana';
+}
+
+h4{
+  color: black;
+  padding: 5px;
+}
+
+h5{
+  color: black;
+  padding: 1%;
+  font-size: 150%;
   
+}
+
+.logo2 {
+  width: 10%;
+  padding: 1%;
+  align-self: right;
 }
 
 .fondopato{
